@@ -1,0 +1,4 @@
+.userTagUsernameBase-267ALn::before {
+  content: "@";
+  font-family: var(--font-primary);
+}
