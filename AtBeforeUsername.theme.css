@@ -3,12 +3,11 @@
  * @author guliveer
  * @version 1.0
  * @description Shows "@" sign before username on Discord after update regarding removal of discriminators. Discord apparently decided that not including it is a "much better" choice...
- * @source https://github.com/Guliveer/AtBeforeUsername.theme.css
+ * @source https://github.com/Guliveer/AtBeforeUsername
  * @invite PGMyEVY
  */
 
 .userTagUsernameBase-267ALn::before {
   content: "@";
-  opacity: 70%;
   font-family: var(--font-primary);
 }
