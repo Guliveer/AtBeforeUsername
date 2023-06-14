@@ -1,4 +1,6 @@
-# Vencord guide
+# Guide
+
+### Vencord
 Copy the link below and paste it in "Themes" tab
 
 ```
