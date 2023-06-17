@@ -13,7 +13,7 @@
   font-family: var(--font-primary);
 }
 
-.userTagUsernameBase-267ALn.discriminator-hnHkyt ~ .discriminator-hnHkyt::before {
-  content: "";
+.userTagUsernameBase-267ALn ~ .discriminator-hnHkyt::before {
+  content: "" !important;
   font-family: var(--font-primary);
 }
