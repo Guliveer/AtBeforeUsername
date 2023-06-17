@@ -1,3 +1,7 @@
+# Info
+If you have any suggestions or ideas - feel free to use [Issues](https://github.com/Guliveer/AtBeforeUsername/issues)
+
+
 # Guide
 
 ### Vencord
