@@ -10,7 +10,7 @@ If you have any suggestions or ideas - feel free to use [Issues](https://github.
 
 # Guide
 
-### Vencord
+### [Vencord](https://vencord.dev/)
 Paste the link below in `Vencord > Themes` tab
 ```
 https://raw.githubusercontent.com/Guliveer/AtBeforeUsername/main/AtBeforeUsername.theme.css
