@@ -8,7 +8,7 @@
  */
 
 .userTagUsernameBase-267ALn::before,
-.discriminator-hnHkyt::before:not(.userTagUsernameBase-267ALn.discriminator-hnHkyt ~ .discriminator-hnHkyt) {
+.discriminator-hnHkyt::before:not(.userTagUsernameBase-267ALn ~ .discriminator-hnHkyt) {
   content: "@";
   font-family: var(--font-primary);
 }
