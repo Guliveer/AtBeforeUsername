@@ -1,5 +1,5 @@
 # About
-Shows "@" sign before username on Discord, after the update regarding removal of discriminators. Discord apparently decided that not including those is a "much better" choice...
+Shows `@` sign before usernames on Discord after the update regarding removal of discriminators. Discord apparently decided that not including those is a "much better" choice...
 
 
 # Info
@@ -18,7 +18,9 @@ If you have any suggestions or ideas - feel free to use [Issues](https://github.
 5. Go back to your `BetterDiscord > Themes` page and enable this theme
 
 ### [Vencord](https://vencord.dev)
-Paste the below link in `Vencord > Themes` tab in Discord settings
+1. Copy the below link
+2. Open Discord settings and go to `Vencord > Themes` tab
+3. Paste the copied link into text box titled **THEMES**
 ```
 https://raw.githubusercontent.com/Guliveer/AtBeforeUsername/main/AtBeforeUsername.theme.css
 ```
