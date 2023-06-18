@@ -10,6 +10,8 @@
 .userTagUsernameBase-267ALn::before,
 .discriminator-hnHkyt::before {
   content: "@";
+  opacity: 0.6;
+  font-size: 90%;
   font-family: var(--font-primary);
 }
 
