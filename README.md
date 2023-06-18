@@ -1,14 +1,16 @@
-# About
+# I'd ❤️  you, if you shared this theme with friends!
+
+## About
 Shows `@` sign before usernames on Discord after the update regarding removal of discriminators. Discord apparently decided that not including those is a "much better" choice...
 
 
-# Info
+## Info
 When this theme gets updated, your modded Discord client will probably update that itself, so don't worry.
 
 If you have any suggestions or ideas - feel free to use [Issues](https://github.com/Guliveer/AtBeforeUsername/issues)
 
 
-# Guide
+## Guide
 
 ### [BetterDiscord](https://betterdiscord.app)
 1. [Download](https://github.com/Guliveer/AtBeforeUsername/archive/refs/heads/main.zip) that theme to your computer
