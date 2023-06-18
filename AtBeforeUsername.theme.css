@@ -7,6 +7,11 @@
  * @invite PGMyEVY
  */
 
+.userTagUsernameBase-267ALn,
+.discriminator-hnHkyt {
+  opacity: 0.75
+}
+
 .userTagUsernameBase-267ALn::before,
 .discriminator-hnHkyt::before {
   content: "@";
