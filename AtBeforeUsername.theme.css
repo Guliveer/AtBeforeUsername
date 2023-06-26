@@ -9,11 +9,11 @@
 
 .userTagUsernameBase-267ALn,
 .discriminator-hnHkyt,
-.discrimBase-v65kTs,
 .username-3JLfHz {
   opacity: 0.85;
 }
 
+.discrimBase-v65kTs,
 .userTagUsernameBase-267ALn::before,
 .discriminator-hnHkyt::before {
   content: "@";
