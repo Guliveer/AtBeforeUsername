@@ -15,7 +15,8 @@
 
 .discrimBase-v65kTs,
 .userTagUsernameBase-267ALn::before,
-.discriminator-hnHkyt::before {
+.discriminator-hnHkyt::before,
+.infoSpacing-dfFOiG.discriminator-WV5K5s::before {
   content: "@";
   opacity: 0.6;
   font-size: 90%;
