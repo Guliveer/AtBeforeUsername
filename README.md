@@ -1,4 +1,4 @@
-# ❤️
+# Hey!
 I'd ❤️ you, if you shared this theme with friends!
 
 ## About
@@ -14,7 +14,7 @@ If you have any suggestions or ideas - feel free to use [Issues](https://github.
 ## Guide
 
 ### [BetterDiscord](https://betterdiscord.app)
-1. [Download](https://github.com/Guliveer/AtBeforeUsername/archive/refs/heads/main.zip) that theme to your computer
+1. [Download](https://github.com/Guliveer/AtBeforeUsername/archive/refs/heads/main.zip) that theme onto your computer
 2. In Discord, go to `BetterDiscord > Themes` tab in Discord settings
 3. At the top click the `Open Themes Folder` button
 4. Place the theme you downloaded into this folder
