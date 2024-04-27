@@ -7,22 +7,22 @@
  * @invite PGMyEVY
  */
 
-.userTagUsernameBase-267ALn,
-.discriminator-hnHkyt,
-.username-3JLfHz {
+[class^='userTagUsernameBase-'],
+[class^='discriminator-'],
+[class^='username-'] {
   opacity: 0.85;
 }
 
-.discrimBase-v65kTs,
-.userTagUsernameBase-267ALn::before,
-.discriminator-hnHkyt::before,
-.infoSpacing-dfFOiG.discriminator-WV5K5s::before {
+[class^='discrimBase-'],
+[class^='userTagUsernameBase']::before,
+[class^='discriminator-']::before,
+[class^='infoSpacing-'][class^='discriminator-']::before {
   content: "@";
   opacity: 0.6;
   font-size: 90%;
   font-family: var(--font-primary);
 }
 
-.username-3JLfHz.discriminator-hnHkyt ~ .discriminator-hnHkyt::before {
+[class^='username-'][class^='discriminator-'] ~ [class^='discriminator-']::before {
   content: none !important;
 }
