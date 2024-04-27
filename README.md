@@ -14,7 +14,7 @@ If you have any suggestions or ideas - feel free to use [Issues](https://github.
 ## Guide
 
 ### [BetterDiscord](https://betterdiscord.app)
-1. [Download](https://github.com/Guliveer/AtBeforeUsername/archive/refs/heads/main.zip) that theme onto your computer
+1. [Download](https://github.com/Guliveer/AtBeforeUsername/archive/refs/heads/main.zip) this theme onto your computer
 2. In Discord, go to `BetterDiscord > Themes` tab in Discord settings
 3. At the top click the `Open Themes Folder` button
 4. Place the theme you downloaded into this folder
@@ -22,8 +22,8 @@ If you have any suggestions or ideas - feel free to use [Issues](https://github.
 
 ### [Vencord](https://vencord.dev)
 1. Copy the below link
-2. Open Discord settings and go to `Vencord > Themes` tab
-3. Paste the copied link into text box titled **THEMES**
-```
+2. Open Discord settings and go to `[Vencord] Themes > Online Themes` tab
+3. Paste (in new line) the copied link into the text box titled **ONLINE THEMES**
+```md
 https://raw.githubusercontent.com/Guliveer/AtBeforeUsername/main/AtBeforeUsername.theme.css
 ```
