@@ -7,22 +7,22 @@
  * @invite PGMyEVY
  */
 
-[class^='userTagUsernameBase-'],
-[class^='discriminator-'],
-[class^='username-'] {
+[class^='userTagUsernameBase'],
+[class^='discriminator'],
+[class^='username'] {
   opacity: 0.85;
 }
 
-[class^='discrimBase-'],
+[class^='discrimBase'],
 [class^='userTagUsernameBase']::before,
-[class^='discriminator-']::before,
-[class^='infoSpacing-'][class^='discriminator-']::before {
+[class^='discriminator']::before,
+[class^='infoSpacing'][class^='discriminator']::before {
   content: "@";
   opacity: 0.6;
   font-size: 90%;
   font-family: var(--font-primary);
 }
 
-[class^='username-'][class^='discriminator-'] ~ [class^='discriminator-']::before {
+[class^='username'][class^='discriminator'] ~ [class^='discriminator']::before {
   content: none !important;
 }
